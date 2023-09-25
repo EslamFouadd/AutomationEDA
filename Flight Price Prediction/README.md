@@ -32,3 +32,6 @@ The various features of the cleaned dataset are explained below:
 11) Price: Target variable stores information of the ticket price.
 
 ===================To boost learning, try to create an end-to-end project using the dataset.==================================
+
+# Data Source:
+https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction
